@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Hung Nguyen, welcome to my GitHub!
 
 <!--
 **hungqng/hungqng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
