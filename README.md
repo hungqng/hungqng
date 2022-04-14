@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Hung Nguyen, welcome to my GitHub!
+### Hi, my name is Hung Nguyen. Welcome to my GitHub! 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungqng&show_icons=true&theme=nord)](https://github.com/hungqng/)
 
