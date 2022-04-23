@@ -1,6 +1,6 @@
 ### 👋 Hi, my name is Hung Nguyen. Welcome to my GitHub!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungqng&show_icons=true&theme=tokyonight)](https://github.com/hungqng)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungqng&layout=compact&theme=nord)](https://github.com/hungqng)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungqng&show_icons=true&theme=tokyonight)](https://github.com/hungqng)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungqng&layout=compact&theme=tokyonight)](https://github.com/hungqng)
 
 
 
